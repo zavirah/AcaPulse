@@ -1,0 +1,19 @@
+{
+  "fill": {
+    "automatic-gradient": "extended-srgb:0.09412,0.05098,0.16471,1.00000"
+  },
+  "groups": [
+    {
+      "layers": [
+        {
+          "image-name": "acapulse-mark.svg",
+          "name": "AcaPulse mark"
+        }
+      ]
+    }
+  ],
+  "supported-platforms": {
+    "circles": ["watchOS"],
+    "squares": "shared"
+  }
+}
